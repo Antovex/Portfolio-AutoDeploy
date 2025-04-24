@@ -7,9 +7,6 @@
 
   <p align="center">
     Files deployed as soon as pushed
-    <br/>
-    <br/>
-    <a href="http://portfolio-githubaction-bucket.s3-website.ap-south-1.amazonaws.com/">View Demo</a>
   </p>
 </p>
 
@@ -19,7 +16,6 @@
 
 This project is an application of the real life based scenario. In this when a developer pushes file to the master/main branch of repository, Github Action gets triggered automatically. The action then performs a job, which pushes the updated code to a particular S3 bucket. Hence the deployment becomes seamless and saves time of developer.
 <p align="center">
-<b><a href="http://portfolio-githubaction-bucket.s3-website.ap-south-1.amazonaws.com/">I have deployed my own portfolio website like this.</a></b>
 </p>
 
 ## Architecture
